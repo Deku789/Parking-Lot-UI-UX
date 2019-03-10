@@ -13,3 +13,5 @@ pane with the link shows a welcome message as well as the option to sign out.
 
 3) Instructions.html - This is a static page showing how to use the website as well as the rules and guidelines to be followed by
 the user of the website.
+
+The wireframe diagram was created in draw.io and the image file as well the xml file is stored in this repository
