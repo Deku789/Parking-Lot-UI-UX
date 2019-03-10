@@ -1,5 +1,5 @@
 This repository contains the wireframe Diagram for the parking lot website.
-[https://github.com/Deku789/Parking-Lot-UI-UX/ParkingLotUi.png]
+[https://github.com/Deku789/Parking-Lot-UI-UX/blob/master/ParkingLotUi.png]
 
 The structure of the website is as follows:
 1) Index.html - This is the main page of the website that shows a representation of the parking lot. The green tiles show the
